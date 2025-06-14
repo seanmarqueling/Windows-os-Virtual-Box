@@ -3,7 +3,7 @@ How to setup a Windows OS in Virtual Box
 
 In this lab I will go over how to install a Windows OS onto a Virtual Machine using Virtual Box
 
-## Instructions - 
+## Instructions - Download and Install Software
 
 Below are the links for the software that we will need. I have included the website to download Virtual Box and Windows OS.
 
