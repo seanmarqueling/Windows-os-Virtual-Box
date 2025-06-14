@@ -59,4 +59,5 @@ Once the VM is open, we need to go through the installation process.
 - I used Windows 10 Home Edition
 - Select Custom Installation
 - After everything installs, your VM is now usable
+
 ![image](https://github.com/seanmarqueling/Windows-os-Virtual-Box/blob/main/7.png?raw=true)
